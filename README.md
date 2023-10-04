@@ -43,5 +43,3 @@ Para executar este projeto em sua própria máquina, siga estas etapas:
     
      ```bash
      dart run
-
->>>>>>> cc8420b2aaa3caf524fb8546e94e05f767275ff3
